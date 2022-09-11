@@ -1,14 +1,17 @@
-# Readme
+# TokenFarm Rooftop Solidity Final Project
 
-## Install proyect
+## Install
 
-1. Run `npm install`
-2. Run `npm install --dev`
+1. `$ npm install`
+2. `$ npm install --dev`
 
-## Check everything is ok
+## Check hardhat install
 
-1. Check hardhat is present, run: `npx hardhat`
-2. Run tests: `npx hardhat test`
+- `$ npx hardhat`
+
+## Test
+
+- `$ npx hardhat test`
 
 
 # Simple DeFi Yield Farming Exercise
